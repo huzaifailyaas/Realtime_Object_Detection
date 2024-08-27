@@ -88,3 +88,8 @@ scissors
 teddy bear
 hair drier
 toothbrush
+tissue Box
+ToothPick
+Glass
+Wire
+Charger
