@@ -3,6 +3,7 @@ bicycle
 car
 motorcycle
 airplane
+watch
 bus
 train
 truck
